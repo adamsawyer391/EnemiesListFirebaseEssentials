@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="email_address">email address</string>
+    <string name="enter_password">enter password</string>
+    <string name="please_fill_out_all_fields">Please fill out all fields</string>
+    <string name="unmatched_passwords">Your password and confirm passwords do not match</string>
+    <string name="password_length">Your password must be at least six characters long</string>
+    <string name="password_lowercase">Your password must contain lower case letters</string>
+    <string name="password_uppercase">Your password must contain upper case letters</string>
+    <string name="password_special_character">Your password must contain a special character</string>
+    <string name="password_number">Your password must contain a number</string>
+    <string name="email_in_use">That email is already in use</string>
+    <string name="error_default">Something went wrong, please try again</string>
+</resources>
